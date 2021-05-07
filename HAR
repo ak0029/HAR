@@ -1,0 +1,10 @@
+# To generate the HAR file for Google Chrome
+
+1. Open Google Chrome & go to the problem page.
+2. Press Ctrl + Shift + I OR From menu bar select View > Developer > Developer Tools.
+3. From Opened panel, select the Network tab.
+4. Look for a round Record button ( Record button ) in the upper left corner of the Network tab, and make sure it is red.If it is grey, click it once to start recording.
+5. Select Preserve log .
+6. Click "Clear button" to clear out any existing logs from the Network tab.
+7. Reproduce the issue that you were experiencing before, while the network requests are being recorded.
+8. Once you have reproduced the issue, right click anywhere on the grid of network requests, select Save as HAR with Content , and save it to computer.
