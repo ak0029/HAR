@@ -1,2 +1,2 @@
 # HAR
-HAR file generation for troubleshooting
+HAR file generation for troubleshooting.
