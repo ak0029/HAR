@@ -1,2 +1,2 @@
 # HAR
-HTTP archieve file generation for troubleshooting.
+HTTP archieve file generation for troubleshooting purpose.
